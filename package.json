@@ -1,8 +1,8 @@
 {
   "name": "element-theme-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is a webpack-plugin for element-theme",
-  "homepage": "https://github.com/webpack-contrib/copy-webpack-plugin",
+  "homepage": "https://github.com/daipeng7/element-theme-webpack-plugin",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/daipeng7/element-theme-webpack-plugin.git"

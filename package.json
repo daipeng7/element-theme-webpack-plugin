@@ -1,6 +1,6 @@
 {
   "name": "element-theme-webpack-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It is a webpack-plugin for element-theme",
   "homepage": "https://github.com/daipeng7/element-theme-webpack-plugin",
   "repository": {
@@ -24,7 +24,7 @@
     "dist"
   ],
   "license": "ISC",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production babel src -d dist --copy-files | bunyan"
   },
